@@ -1,5 +1,5 @@
 ##
-## GitHub IP (Type A Name @ GitHubIP)
+## GitHub IP (Type: A Name: @ Value: GitHubIP)
 ## 185.199.108.153
 ## 185.199.109.153
 ## 185.199.110.153
